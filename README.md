@@ -26,13 +26,13 @@ erase all
 
 ## references
 idle
-![idle] (idle.png)
+![idle](idle.png?raw=true "idle")
 1
-![uno] (1.png)
+![uno](1.png?raw=true "uno")
 2
-![dos] (2.png)
+![dos](2.png?raw=true "dos")
 3
-![tres] (3.png)
+![tres](3.png?raw=true "tres")
 
 
 
