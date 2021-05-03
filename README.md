@@ -26,13 +26,13 @@ erase all
 
 ## references
 idle
-![idle](idle.png?raw=true "idle")
+![idle](zMedia-references/idle.png?raw=true "idle")
 1
-![uno](1.png?raw=true "uno")
+![uno](zMedia-references/1.png?raw=true "uno")
 2
-![dos](2.png?raw=true "dos")
+![dos](zMedia-references/2.png?raw=true "dos")
 3
-![tres](3.png?raw=true "tres")
+![tres](zMedia-references/3.png?raw=true "tres")
 
 
 
